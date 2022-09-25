@@ -1,0 +1,12 @@
+{
+        "name": "backend-arch-1",
+        "version": "1.0.0",
+        "description": "backend function",
+        "scripts": {
+                "test": "echo \"No tests yet...\""
+        },
+        "author": "",
+        "dependencies": {
+                "mongodb": "^3.6.2"
+        }
+}
